@@ -1,0 +1,3 @@
+[submodule "expense-service"]
+	path = expense-service
+	url = https://github.com/Palak921/expense-service.git
