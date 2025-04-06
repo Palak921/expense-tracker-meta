@@ -1,0 +1,13 @@
+
+<<<<<<< HEAD
+=======
+[submodule "expense-service"]
+	path = expense-service
+	url = https://github.com/Palak921/expense-service.git
+>>>>>>> c372a9b67536631e13f1be7084556c5d50505bcb
+[submodule "services/expense-service"]
+	path = services/expense-service
+	url = https://github.com/Palak921/expense-service.git
+x
+^X
+
